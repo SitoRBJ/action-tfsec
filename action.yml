@@ -1,5 +1,5 @@
 name: 'Run tfsec with reviewdog'
-description: '🐶 Run tfsec with reviewdog on pull requests to enforce security best practices'
+description: 'Run tfsec with reviewdog on pull requests to enforce security best practices'
 author: 'vlaaaaaaad (reviewdog)'
 
 inputs:
